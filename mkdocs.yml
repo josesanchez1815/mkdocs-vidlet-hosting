@@ -7,8 +7,6 @@ edit_uri: ""
 
 
 theme: material
-  name: material
-
 #give a title for each page
 
 nav:
