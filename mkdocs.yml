@@ -6,7 +6,9 @@ edit_uri: ""
 
 
 
-theme: material
+theme: 
+  name: null
+  custom_dir: mkdocs-material/material
 #give a title for each page
 
 nav:
