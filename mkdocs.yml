@@ -7,7 +7,7 @@ edit_uri: ""
 
 
 theme: 
-  name: mkdocs
+  name: material
 
 #give a title for each page
 
