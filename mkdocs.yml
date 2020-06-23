@@ -7,14 +7,7 @@ edit_uri: ""
 
 
 theme: 
-  name: material
-  # the next 2 lines are required to tuse the DIB version
-
-
-# pretty colors! see https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-palett:
-  primary: 'blue'
-  accent: 'blue'
+  name: mkdocs
 
 #give a title for each page
 
