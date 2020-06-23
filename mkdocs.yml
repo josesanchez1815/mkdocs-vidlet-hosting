@@ -1,0 +1,28 @@
+site_name: mycoolwebsite
+site_url: https://mkdocs-vidlet-hosting.readthedocs.io/
+repo_name: <jose-sanchez>/<mkdocs-vidlet-hosting>
+edit_uri: ""
+
+
+
+
+theme: 
+  name: material
+  # the next 2 lines are required to tuse the DIB version
+
+
+# pretty colors! see https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
+palett:
+  primary: 'blue'
+  accent: 'blue'
+
+#give a title for each page
+
+nav:
+    - Home: index.md
+    - Vidlets: vidletpage.md
+
+
+
+  
+
